@@ -27,7 +27,10 @@ The American Planning Association provides leadership in the development of vita
 
 ## Sketch City
 
-
+- Michelle Avalos
+- Brian Barr
+- Jeff Reichman
+- Grace Rodriguez
 
 # Data Jam
 
