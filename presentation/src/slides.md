@@ -91,7 +91,7 @@ The American Planning Association provides leadership in the development of vita
 
 *These would all be extremely tedious and time-consuming to do currently*
 
-# Similar Precendents
+# Similar Precedents
 
 ## GTFS
 
