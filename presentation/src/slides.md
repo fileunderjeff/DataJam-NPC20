@@ -25,9 +25,12 @@ The American Planning Association provides leadership in the development of vita
 - Randall West
   - Manager of Web and Application Development
 
-## Sketch City
+## Sketch City & Impact Hub Houston
 
-
+- Michelle Avilos
+- Brian Barr
+- Jeff Reichman
+- Grace Rodriguez
 
 # Data Jam
 
